@@ -1,0 +1,8 @@
+extends layout.pug
+
+block content
+    h1 Oops!
+    h2 Error #{error.status}: #{error.message}
+    p= error.stack
+    nav.grid-container.portfolio-breadcrumb
+        a(href='/') ← Back

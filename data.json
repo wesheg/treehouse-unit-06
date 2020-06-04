@@ -1,0 +1,99 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "project_name": "Random Quote Generator",
+            "description": "App generates a random number used to select a quote from an array. The background color also changes randomly.",
+            "technologies": [
+                "JavaScript", 
+                "HTML", 
+                "CSS"
+            ],
+            "live_link": "https://wesheg.github.io/treehouse-unit-01/",
+            "github_link": "https://github.com/wesheg/treehouse-unit-01",
+            "image_urls": [
+                "/images/project_1_1.png",
+                "/images/project_1_2.png"
+            ]
+
+        },
+
+        {
+            "id": 2,
+            "project_name": "Pagination & Filtering",
+            "description": "App uses pagination & filtering condense a list of 54 students.",
+            "technologies": [
+                "JavaScript", 
+                "HTML", 
+                "CSS"
+            ],
+            "live_link": "https://wesheg.github.io/treehouse-unit-02/",
+            "github_link": "https://github.com/wesheg/treehouse-unit-02",
+            "image_urls": [
+                "/images/project_2_1.png",
+                "/images/project_2_2.png"
+            ]
+
+        },
+
+        {
+            "id": 3,
+            "project_name": "Interactive Form",
+            "description": "App uses form validation techniques to ensure a user properly sumbits a registration form",
+            "technologies": [
+                "JavaScript", 
+                "HTML", 
+                "CSS",
+                "Regular Expressions"
+            ],
+            "live_link": "https://wesheg.github.io/treehouse-unit-03/",
+            "github_link": "https://github.com/wesheg/treehouse-unit-03",
+            "image_urls": [
+                "/images/project_3_1.png",
+                "/images/project_3_2.png"
+            ]
+
+        },
+
+        {
+            "id": 4,
+            "project_name": "Phrase Hunter Game",
+            "description": "Interactive game in which user guesses letters to fill in a hidden phrase.",
+            "technologies": [
+                "JavaScript", 
+                "HTML", 
+                "CSS",
+                "Object Oriented Programming"
+            ],
+            "live_link": "https://wesheg.github.io/treehouse-unit-04/",
+            "github_link": "https://github.com/wesheg/treehouse-unit-04",
+            "image_urls": [
+                "/images/project_4_1.png",
+                "/images/project_4_2.png"
+            ]
+
+        },
+
+        {
+            "id": 5,
+            "project_name": "Random User Directory",
+            "description": "App creates an API request for 12 random users & displays their data on the page.",
+            "technologies": [
+                "JavaScript", 
+                "HTML", 
+                "CSS",
+                "Fetch API",
+                "Promises"
+            ],
+            "live_link": "https://wesheg.github.io/treehouse-unit-05/",
+            "github_link": "https://github.com/wesheg/treehouse-unit-05",
+            "image_urls": [
+                "/images/project_5_1.png",
+                "/images/project_5_2.png"
+            ]
+
+        }
+        
+    ]
+}
+
